@@ -45,4 +45,4 @@ const FilmName1 = prompt("Один из последних просмотрен�
 personalMovieDB.movies[FilmName1] = FilmRating1;
 personalMovieDB.movies[FilmName2] = FilmRating2;
 
-console.log(personalMovieDB)
+console.log(personalMovieDB);
